@@ -1,7 +1,10 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+## Activity 1
+## In class activity
+After I moved the Camera out from under the Cat, the Camera no longer moves along with the Cat. This is because the Camera is no longer a child object of the Cat, so it does not move with it.
+
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
