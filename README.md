@@ -8,7 +8,7 @@ After I moved the Camera out from under the Cat， the Camera no longer moves al
 ## Open-Source Assets
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
 - Low-poly environment: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
-  
+-
 # Minigame 1
 ## Open-Source Assets
 - [Starter first-person assets](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
