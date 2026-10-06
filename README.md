@@ -14,7 +14,7 @@ After I moved the Camera out from under the Cat， the Camera no longer moves al
 Create future Devlog sub-headers with the three # symbols， then write your Devlogs below them.
 ### In class activities
 ### 1
-Because r， g，and b represent color values， which can have decimal values. A float allows values like 0.5， while an int would only allow whole numbers. They aren't bools because they're not simply true/false， and they aren't strings because they're numerical values used for calculations.
+Because r，g，and b represent color values， which can have decimal values. A float allows values like 0.5， while an int would only allow whole numbers. They aren't bools because they're not simply true/false， and they aren't strings because they're numerical values used for calculations.
 ### 2
 The _bounces variable is an int because the number of times the ball bounces is a whole number. We would not normally have 2.5 bounces. An int also lets us easily increase the number by 1.
 ### 3
