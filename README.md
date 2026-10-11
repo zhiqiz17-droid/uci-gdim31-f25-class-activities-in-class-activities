@@ -28,6 +28,7 @@ The _bounces variable is an int because the number of times the ball bounces is 
 The error after Step 4 showed that the line was missing a semicolon at the end. In C#， the line needs to end with a semicolon， so g -= 0.1f；is the correct version.
 
 ### Minigame 2
+### Minigame Devlogs
 ### 1
 I encountered an issue involving an "if" statement. Because the health value changed before the conditional check, the color didn't update in the correct order, and the treasure chest disappeared prematurely. I resolved this by checking the updated health value and adjusting the color accordingly; I also ensured that the chest only disappears when the health drops to zero.
 ### 2
