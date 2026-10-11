@@ -26,3 +26,9 @@ Because r，g，and b represent color values， which can have decimal values. A
 The _bounces variable is an int because the number of times the ball bounces is a whole number. We would not normally have 2.5 bounces. An int also lets us easily increase the number by 1.
 ### 3
 The error after Step 4 showed that the line was missing a semicolon at the end. In C#， the line needs to end with a semicolon， so g -= 0.1f；is the correct version.
+
+### Minigame 2
+### 1
+I encountered an issue involving an `if` statement. Because the health value changed before the conditional check, the color didn't update in the correct order, and the treasure chest disappeared prematurely. I resolved this by checking the updated health value and adjusting the color accordingly; I also ensured that the chest only disappears when the health drops to zero.
+### 2
+I think that the dot operator "." is used to access an object's properties. For instance, "_spriteRenderer.color" accesses the color property of the "SpriteRenderer". I think the "new" keyword creates a new "Color" object using the values ​​inside the parentheses, where "r", "0.2f", and "0.2f" likely represent the red, green, and blue (RGB) color components, respectively.
