@@ -36,5 +36,15 @@ I think that the dot operator "." is used to access an object's properties. For 
 
 ### W3
 ### In class activities
-### Part 3:Devlog question
+### Devlog question
+### Activity 1: methods discussion
+For the visual novel, “GetResponse” takes friendship level and whether the player knows the secret as inputs and returns a string. For the horror game, “SetLightDimness” takes sanity level as input and returns void. For the rhythm game, “DidPlayerHitBeat” takes the key press time and beat time as inputs and returns a boolean.
+
+### Activity 2: Components & classes metaphor
+A class acts like a blueprint for a game character. Member variables describe the character's attributes—such as health, speed, and color—while methods define its capabilities, such as jumping, moving, and taking damage. A component is an instance of a class that can be attached to a GameObject in Unity, thereby endowing that object with specific properties or behaviors.
+
+### Activity Part 3: Devlog question
+The balls become extremely bright because their color is multiplied by 1.5 each time they bounce fast enough. Repeated multiplication makes the color values increase quickly, so after many bounces, the balls can become extremely bright, especially in the Scene view.
+
+
 
