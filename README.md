@@ -31,4 +31,10 @@ A class acts like a blueprint for a game character. Member variables describe th
 ### Activity Part 3: Devlog question
 The balls become extremely bright because their color is multiplied by 1.5 each time they bounce fast enough. Repeated multiplication makes the color values increase quickly, so after many bounces, the balls can become extremely bright, especially in the Scene view.
 
-
+### W4
+### In class activities
+### Devlog question
+### 1
+We added a Rigidbody to the Cat and the SoccerBall so they could move and interact with other objects using physics. We used colliders to detect collisions. We checked Is Trigger on the Goal's collider so the ball could enter the goal area and trigger the goal event without being blocked by the goal.
+### 2
+We checked the collider settings, Rigidbody settings, and missing component references in the Inspector. We also tested the game to make sure the cat could kick the ball, the ball could bounce off the wall, and the goal event worked correctly.
