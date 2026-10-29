@@ -34,6 +34,7 @@ The balls become extremely bright because their color is multiplied by 1.5 each 
 ### W4
 ### In class activities
 ### Devlog question
+### Table 13
 ### 1
 We added a Rigidbody to the Cat and the SoccerBall so they could move and interact with other objects using physics. We used colliders to detect collisions. We checked Is Trigger on the Goal's collider so the ball could enter the goal area and trigger the goal event without being blocked by the goal.
 ### 2
