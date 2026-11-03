@@ -39,3 +39,19 @@ The balls become extremely bright because their color is multiplied by 1.5 each 
 We added a Rigidbody to the Cat and the SoccerBall so they could move and interact with other objects using physics. We used colliders to detect collisions. We checked Is Trigger on the Goal's collider so the ball could enter the goal area and trigger the goal event without being blocked by the goal.
 ### 2
 We checked the collider settings, Rigidbody settings, and missing component references in the Inspector. We also tested the game to make sure the cat could kick the ball, the ball could bounce off the wall, and the goal event worked correctly.
+
+### W5
+no class
+
+### W6
+### In class activities
+### Devlog question
+### Table 13
+### 1
+A "Transform" variable to store the target "GameObject". and A "NavMeshAgent" variable to access the deer’s "NavMeshAgent" component.
+
+### 2
+"Start()", a Unity method that runs once when the game begins.
+
+### 3
+ Use "GetComponent<NavMeshAgent>()" to get the "NavMeshAgent" component from the Deer "GameObject". Use the "NavMeshAgent" to set the deer's destination to the target's position.
