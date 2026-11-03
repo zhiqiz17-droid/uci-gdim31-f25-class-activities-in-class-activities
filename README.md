@@ -41,7 +41,7 @@ We added a Rigidbody to the Cat and the SoccerBall so they could move and intera
 We checked the collider settings, Rigidbody settings, and missing component references in the Inspector. We also tested the game to make sure the cat could kick the ball, the ball could bounce off the wall, and the goal event worked correctly.
 
 ### W5
-no class
+No Class
 
 ### W6
 ### In class activities
