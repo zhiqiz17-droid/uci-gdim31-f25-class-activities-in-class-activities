@@ -55,3 +55,10 @@ A "Transform" variable to store the target "GameObject". and A "NavMeshAgent" va
 
 ### 3
  Use "GetComponent<NavMeshAgent>()" to get the "NavMeshAgent" component from the Deer "GameObject". Use the "NavMeshAgent" to set the deer's destination to the target's position.
+
+### W7
+### In class activities
+### Devlog question
+### 1
+
+
