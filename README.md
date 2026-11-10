@@ -60,5 +60,6 @@ A "Transform" variable to store the target "GameObject". and A "NavMeshAgent" va
 ### In class activities
 ### Devlog question
 ### 1
+https://docs.google.com/document/d/1nudkklFexw4WQf4NVQ_XFilsmZtqITc8Le0IVQiOiyo/edit?usp=sharing
 
 
