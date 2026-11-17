@@ -62,4 +62,8 @@ A "Transform" variable to store the target "GameObject". and A "NavMeshAgent" va
 ### 1
 https://docs.google.com/document/d/1nudkklFexw4WQf4NVQ_XFilsmZtqITc8Le0IVQiOiyo/edit?usp=sharing
 
-
+### W8
+### In class activities
+### Devlog question
+### 1
+The original code used "Vector3.forward", which always moves the Muskrat in the world's forward direction. This was incorrect because the Muskrat should move in the direction it is facing. I changed it to "transform.forward" so the Muskrat can move forward and backward based on its own rotation.
