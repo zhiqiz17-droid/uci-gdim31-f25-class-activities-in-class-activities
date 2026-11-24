@@ -67,3 +67,9 @@ https://docs.google.com/document/d/1nudkklFexw4WQf4NVQ_XFilsmZtqITc8Le0IVQiOiyo/
 ### Devlog question
 ### 1
 The original code used "Vector3.forward", which always moves the Muskrat in the world's forward direction. This was incorrect because the Muskrat should move in the direction it is facing. I changed it to "transform.forward" so the Muskrat can move forward and backward based on its own rotation.
+
+### W9 
+### In class activities
+### Devlog 
+### 1
+I chose the "2D" track for my final project and discussed it with my classmates. I mapped out the core "GameObjects" and "Components" for the game. Together with my teammates, I created a diagram illustrating the interactions between these GameObjects and Components. We also began planning how to organize the scripts for the final project.
