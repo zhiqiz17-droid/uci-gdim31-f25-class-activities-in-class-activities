@@ -74,3 +74,4 @@ The original code used "Vector3.forward", which always moves the Muskrat in the 
 ### 1
 I chose the "2D" track for my final project and discussed it with my classmates. I mapped out the core "GameObjects" and "Components" for the game. Together with my teammates, I created a diagram illustrating the interactions between these GameObjects and Components. We also began planning how to organize the scripts for the final project.
 https://docs.google.com/document/d/1bFlGo9EZQe8lsjoFawA461VotLIuk7ehiCGTmq5yt6g/edit?usp=sharing
+
